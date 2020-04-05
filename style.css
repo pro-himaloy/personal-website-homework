@@ -1,0 +1,148 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: crimson;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 30px;
+    padding-left: 2%;
+}
+.top-writting {
+    padding-top: 70px;
+    padding-left: 100px;
+}
+.half-width img{
+    width: 100%;
+   }
+
+section {
+    height: 750px;
+}
+.link-button {
+text-decoration: none;
+background-color: crimson;
+border-radius: 5px;
+color: white;
+font-weight: 700;
+padding-left: 25px;
+padding-right: 25px;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+.link-button:hover {
+    box-shadow: 10px 10px 30px orange ;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+
+}
+.about-me {
+    height: 120px;
+}
+.top-banner {
+    background-image: url(images/header-bg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;}
+
+.middle-writting {
+    padding-top: 100px;
+    padding-left: 30px;
+}
+#detail-biography {
+    height: 200px;
+}
+.biography {
+    background-image: url(images/biography-bg.png);
+}
+
+.third-width {
+    width: 25%;
+    float: left;
+    margin-left: 3%;
+    margin-right: 2.5%;
+    margin-top: 50px;
+    padding-left: 2%;
+}
+.third-width img {
+    width: 100%;
+    height: 100%;
+}
+.work-box {
+    height: 350px;
+}
+.work-area {
+    background-image: url(images/latest-work-bg.png);
+    height: 450px;
+    background-size: 100%;
+}
+.work {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+    padding-top: 100px;
+    
+}
+.cleint-name {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: black;
+   
+}
+.client-designation {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: grey;
+}
+.client-quotation {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+}
+.client {
+    background-image: url(images/footer-bg.png);
+    height: 700px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.contact {
+padding-top: 20px;
+width: 50%;
+text-decoration: none;
+text-align: center;
+background-color: crimson;
+border-radius: 5px;
+color: white;
+font-weight: 700;
+position: relative;
+left: 25%;
+padding-bottom: 40px;
+}
+.mail-address {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    }
+.footer {
+    text-align: center;
+    color: grey;
+}
